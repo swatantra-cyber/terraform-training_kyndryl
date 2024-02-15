@@ -1,3 +1,3 @@
 rg-name = "rg1"
-rg-loc  = "westeurope"
+rg-location = "westeurope"
 
